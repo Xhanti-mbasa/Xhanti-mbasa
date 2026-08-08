@@ -86,7 +86,6 @@ I'm a software engineering student at **WeThinkCode_** in Cape Town, passionate 
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Xhanti-mbasa&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f4&hide_border=true&radius=16&line=42a4f4&point=40edab&area_color=40edab&color=40edab" width="59%" />
 </div>
 <br />
-<img align="center" src="https://github-profile-trophy-tawny.vercel.app/?username=Xhanti-mbasa&no-frame=true&column=6&theme=algolia" width="97.5%" />
 
 ## Connect With Me
 
