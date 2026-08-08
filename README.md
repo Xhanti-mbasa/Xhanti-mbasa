@@ -13,6 +13,9 @@ I'm a software engineering student at **WeThinkCode_** in Cape Town, passionate 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
+![Cmake](https://img.shields.io/badge/Cmake-064F8C?logo=cmake&logoColor=white&style=for-the-badge)
+![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=FFFFFF&logo=Markdown&logoColor=000000&label=)
+
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -40,6 +43,12 @@ I'm a software engineering student at **WeThinkCode_** in Cape Town, passionate 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logoColor=ffffff&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI3IiBoZWlnaHQ9IjEyNyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMjcuMiA4MGMwIDcuMy01LjkgMTMuMi0xMy4yIDEzLjJDNi43IDkzLjIuOCA4Ny4zLjggODBjMC03LjMgNS45LTEzLjIgMTMuMi0xMy4yaDEzLjJWODB6bTYuNiAwYzAtNy4zIDUuOS0xMy4yIDEzLjItMTMuMiA3LjMgMCAxMy4yIDUuOSAxMy4yIDEzLjJ2MzNjMCA3LjMtNS45IDEzLjItMTMuMiAxMy4yLTcuMyAwLTEzLjItNS45LTEzLjItMTMuMlY4MHoiIGZpbGw9IiNGRkZGRkYiLz4KICA8cGF0aCBkPSJNNDcgMjdjLTcuMyAwLTEzLjItNS45LTEzLjItMTMuMkMzMy44IDYuNSAzOS43LjYgNDcgLjZjNy4zIDAgMTMuMiA1LjkgMTMuMiAxMy4yVjI3SDQ3em0wIDYuN2M3LjMgMCAxMy4yIDUuOSAxMy4yIDEzLjIgMCA3LjMtNS45IDEzLjItMTMuMiAxMy4ySDEzLjlDNi42IDYwLjEuNyA1NC4yLjcgNDYuOWMwLTcuMyA1LjktMTMuMiAxMy4yLTEzLjJINDd6IiBmaWxsPSIjRkZGRkZGIi8+CiAgPHBhdGggZD0iTTk5LjkgNDYuOWMwLTcuMyA1LjktMTMuMiAxMy4yLTEzLjIgNy4zIDAgMTMuMiA1LjkgMTMuMiAxMy4yIDAgNy4zLTUuOSAxMy4yLTEzLjIgMTMuMkg5OS45VjQ2Ljl6bS02LjYgMGMwIDcuMy01LjkgMTMuMi0xMy4yIDEzLjItNy4zIDAtMTMuMi01LjktMTMuMi0xMy4yVjEzLjhDNjYuOSA2LjUgNzIuOC42IDgwLjEuNmM3LjMgMCAxMy4yIDUuOSAxMy4yIDEzLjJ2MzMuMXoiIGZpbGw9IiNGRkZGRkYiLz4KICA8cGF0aCBkPSJNODAuMSA5OS44YzcuMyAwIDEzLjIgNS45IDEzLjIgMTMuMiAwIDcuMy01LjkgMTMuMi0xMy4yIDEzLjItNy4zIDAtMTMuMi01LjktMTMuMi0xMy4yVjk5LjhoMTMuMnptMC02LjZjLTcuMyAwLTEzLjItNS45LTEzLjItMTMuMiAwLTcuMyA1LjktMTMuMiAxMy4yLTEzLjJoMzMuMWM3LjMgMCAxMy4yIDUuOSAxMy4yIDEzLjIgMCA3LjMtNS45IDEzLjItMTMuMiAxMy4ySDgwLjF6IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=)
+
+## Secondary skills
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logoColor=ffffff&logo=YAML)
+![TOML](https://img.shields.io/badge/TOML-9C4121?style=for-the-badge&logoColor=ffffff&logo=TOML)
+![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=CSS&logoColor=FFFFFF&label=)
 
 ### Working With
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
@@ -65,6 +74,18 @@ I'm a software engineering student at **WeThinkCode_** in Cape Town, passionate 
 - **Describe Azure management and governance** — Completed 1/13/2026
 
 ---
+## Github Statistic
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=t8rin&theme=toonight&background=061821&border=0C1A25&stroke=42a4f4&fire=42a4f4&ring=42a4f4&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f4&dates=40edab&currStreakLabel=42a4f4" width="50%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=t8rin&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=40edab&title_color=42a4f4" width="47%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=t8rin&layout=compact&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f4" width="38%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=T8RIN&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f4&hide_border=true&radius=16&line=42a4f4&point=40edab&area_color=40edab&color=40edab" width="59%" />
+</div>
+<br />
 
 ## Connect With Me
 
